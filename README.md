@@ -4,8 +4,13 @@
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding animation">
   <br/>
-  <!-- Add snake animation to show GitHub contributions -->
-  <img src="https://github.com/shiv2240/shiv2240/blob/output/github-contribution-grid-snake.svg" alt="snake animation">
+  <!-- Add typing animation -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;Always+learning+new+things" alt="Typing SVG" />
+  </a>
+  <br/>
+  <!-- Snake animation -->
+  <img src="https://github.com/shiv2240/shiv2240/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
 </div>
 
 <p align="center">
