@@ -39,8 +39,7 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivsahni&show_icons=true&theme=radical" alt="github-stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivsahni&theme=radical" alt="streak-stats"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shiv2240&show_icons=true&theme=radical"/>
 </p>
 
 ### 🤝 Connect with me:
