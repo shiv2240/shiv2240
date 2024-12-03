@@ -1,8 +1,15 @@
 <h1 align="center">👋 Hi, I'm Shiv Sahni</h1>
 <h3 align="center">A passionate Full Stack Developer from India 🚀</h3>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding animation">
+  <br/>
+  <!-- Add snake animation to show GitHub contributions -->
+  <img src="https://github.com/shiv2240/shiv2240/blob/output/github-contribution-grid-snake.svg" alt="snake animation">
+</div>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shivsahni&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+  <img src="https://komarev.com/ghpvc/?username=shiv2240&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
 </p>
 
 ### 👨‍💻 About Me:
@@ -39,7 +46,8 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shiv2240&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shiv2240&show_icons=true&theme=radical&count_private=true" alt="github-stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shiv2240&theme=radical&hide_border=true" alt="streak-stats"/>
 </p>
 
 ### 🤝 Connect with me:
@@ -47,4 +55,4 @@
   <a href="https://www.linkedin.com/in/shiv-sahni-5461aa181/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
-</p>
+</p> 
