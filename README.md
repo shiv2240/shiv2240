@@ -22,7 +22,7 @@
 - 🎓 Recently completed **Full Stack Web Development**
 - 🔍 Actively seeking job opportunities in **Full Stack Development**
 - 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **React, JavaScript, Node.js**
+- 💬 Ask me about **React, JavaScript**
 - 🌏 Location: **India**
 - 📫 How to reach me: **shivsahni2240@gmail.com**
 
@@ -39,6 +39,7 @@ I'm a **MERN Stack Developer**, constantly exploring new technologies and buildi
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/chakra-ui/chakra-ui-icon.svg" alt="chakra" width="40" height="40"/>
   
   <!-- Database -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
@@ -101,16 +102,16 @@ I actively work on various Full Stack Web Development projects to showcase my co
   <a href="https://www.linkedin.com/in/shiv-sahni-5461aa181/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
+  &nbsp; &nbsp;
   <a href="https://shiv-sahni-portfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=dev.to&logoColor=white" alt="portfolio" height="30" width="80" />
   </a>
 </p>
 
-### 📅 Milestones:
-- **Profile Image & Social Links**: Replaced the default GitHub avatar with a professional profile image and updated LinkedIn & Portfolio links.  
+### 📅 Milestones:  
 - **Projects**: Added at least four projects to showcase core competencies. Projects are tagged and pinned accordingly.  
 - **README Updates**: All projects have detailed README files with descriptions, installation instructions, and video walkthroughs.
   
 ### 🔖 Merit Points:
-- **Repositories Starring**: I have starred repositories of interest (10 repositories).
+- **Repositories Starring**: I have starred repositories of interest.
 - **Followers**: Engaging with the GitHub community and looking to expand my network.
