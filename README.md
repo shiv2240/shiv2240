@@ -101,7 +101,7 @@ I actively work on various Full Stack Web Development projects to showcase my co
   <a href="https://www.linkedin.com/in/shiv-sahni-5461aa181/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
-  <a href="https://shiv-sahni.dev" target="_blank">
+  <a href="https://shiv-sahni-portfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=dev.to&logoColor=white" alt="portfolio" height="30" width="80" />
   </a>
 </p>
