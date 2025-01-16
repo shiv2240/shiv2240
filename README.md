@@ -90,8 +90,8 @@ I actively work on various Full Stack Web Development projects to showcase my co
    - **Deployed Link**: [Deployed App Link](https://aabhar.netlify.app/)  
    - **Github Link**: [Code Walkthrough](https://github.com/shiv2240/Code-Hackers)
    - **Installation Instructions**: 
-     1. Clone the repository: `git clone https://github.com/your-repo/crowdfunding-platform.git`
-     2. Navigate to folder: `cd crowdfunding-platform`
+     1. Clone the repository: `git clone https://github.com/shiv2240/Code-Hackers.git`
+     2. Navigate to folder: `cd Code-Hackers`
      3. Run `npm install` to install dependencies.
      4. Run the server: `npm run dev or npm start`
 
