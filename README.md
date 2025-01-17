@@ -3,7 +3,7 @@
 
 <div align="center">
   <!-- Profile Picture - Task 1.1 -->
-  <img src="https://placehold.it/200x200" width="200" alt="Professional Profile Picture" />
+  <img src="./.github/Profile.jpg" width="200" alt="Professional Profile Picture" />
   <br />
   <!-- Typing animation -->
   <a href="https://git.io/typing-svg">
