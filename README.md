@@ -1,90 +1,137 @@
-# 👋 Hi there, I'm Shiv Sahni! <img src="https://media.giphy.com/media/hvRJCLzz8CXTfMSyjE/giphy.gif" width="30">
-### 🚀 Creative Full-Stack Developer | MERN Stack Enthusiast
+<h1 align="center">👋 Hi, I'm Shiv Sahni</h1>
+<h3 align="center">A passionate Full Stack Developer from India 🚀</h3>
 
 <div align="center">
-
-![GitHub Header](https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Shiv%20Sahni&fontSize=70&animation=fadeIn&fontAlignY=38)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9C27B0&width=435&lines=MERN+Stack+Specialist;Creative+UI/UX+Developer;Building+AI-Driven+Solutions;Always+Learning+New+Tech)](https://git.io/typing-svg)
-
----
-
-### 🌐 Presence & Activity
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivsahnimern/)
-[![X/Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/ShivSah94874401)
-[![Email](https://img.shields.io/badge/Email-Contact-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shivsahni2240@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-purple?style=flat-square&logo=google-chrome&logoColor=white)](https://shivsahnimern.netlify.app/)
-
-<img src="https://komarev.com/ghpvc/?username=shiv2240&label=Profile%20Views&color=blueviolet&style=flat-square" alt="profile-views" />
-
-</div>
-
----
-
-## 👨‍💻 About Me
-I'm a **Full-Stack Developer** based in **India** 🇮🇳 with a passion for building high-quality, scalable digital products. Currently, I'm deep-diving into AI-orchestration and 3D web experiences (Three.js).
-
-- ⚡ **Focus**: Building interactive, human-centered web applications.
-- 🎓 **Education**: Recently completed an intensive Full Stack Web Development program.
-- 🔭 **Current Goal**: Actively seeking a **Full-Stack Developer** role to contribute to innovative teams.
-- 💬 **Fun Fact**: I believe code should be as clean as a fresh design!
-
----
-
-## 🛠️ Tech Stack
-
-### 🎨 Frontend & Design
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![ChakraUI](https://img.shields.io/badge/Chakra--UI-319795?style=flat-square&logo=chakra-ui&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
-
-### ⚙️ Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white)
-
-### 🔧 Tools & Cloud
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-
----
-
-## 🌟 Featured Projects
-
-| Project | Description | Tech Stack | Links |
-| :--- | :--- | :--- | :--- |
-| 🤖 **Multi-AI Orchestrator** | A system orchestrating ChatGPT, Gemini, and Perplexity for smarter tasks. | MERN, AI APIs | [Demo](https://ai-orchestrator.netlify.app/) • [Code](https://github.com/shiv2240/project1.git) |
-| 🏥 **Pharma Care** | Modern pharmacy e-commerce with real-time tracking. | MERN, JWT, Tailwind | [Demo](https://online-pharmacy-2.netlify.app/) • [Code](https://github.com/shiv2240/Online_Pharmacy) |
-| 🎙️ **KathaVachan** | Voice-assisted business data collection using AI. | React, Three.js, AI Core | [Demo](https://kathavachan1.netlify.app/) • [Code](https://github.com/shiv2240/CodingNinjas) |
-| 🎬 **Movie Booking System** | Seamless theater and showtime management system. | FireBase, JS, Tailwind | [Demo](https://movie-booking-solar-sparks.netlify.app/) • [Code](https://github.com/ANKIT9761/Movie-Booking-System) |
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shiv2240&show_icons=true&theme=radical&hide_border=true&count_private=true)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=shiv2240&theme=radical&hide_border=true)
-
-</div>
-
-### 🐍 Contribution Journey
-<div align="center">
-  <img src="https://github.com/shiv2240/shiv2240/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
-</div>
-
----
-
-<div align="center">
-  <h3>🤝 Let's build something amazing together!</h3>
-  <p>Available for <strong>Full-Stack</strong> roles, collaborations, and brainstorming 💡</p>
+  <!-- Profile Picture - Task 1.1 -->
+  <img src="./.github/Profile.jpg" width="200" alt="Professional Profile Picture" />
   <br />
-  <p align="center">Built with 💜 by Shiv Sahni</p>
+  <!-- Typing animation -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;Always+learning+new+things" alt="Typing SVG" />
+  </a>
+  <br />
+  <!-- Snake animation -->
+  <img src="https://github.com/shiv2240/shiv2240/blob/output/github-contribution-grid-snake.svg" alt="snake" />
 </div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shiv2240&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+</p>
+
+### 👨‍💻 About Me:
+
+- 🎓 Recently completed **Full Stack Web Development**
+- 🔍 Actively seeking job opportunities in **Full Stack Development**
+- 👯 Looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **React, JavaScript**
+- 🌏 Location: **India**
+- 📫 How to reach me: **shivsahni2240@gmail.com**
+
+### 🎯 Motivation & Interests:
+
+I'm a **MERN Stack Developer**, constantly exploring new technologies and building innovative solutions. Passionate about learning and improving my development skills, I aspire to contribute to meaningful projects and collaborate with other developers.
+
+### 🛠️ Tech Stack:
+
+<p align="left">
+  <!-- Programming Languages -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> &nbsp;
+
+  <!-- Frontend -->
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> &nbsp;
+<img src="https://www.vectorlogo.zone/logos/chakra-ui/chakra-ui-icon.svg" alt="chakra" width="40" height="40"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/> &nbsp;
+
+  <!-- Database -->
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> &nbsp;
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> &nbsp;
+
+  <!-- Backend -->
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/> &nbsp;
+
+  <!-- Tools -->
+
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/> &nbsp;
+<img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40"/> &nbsp;
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> &nbsp;
+
+</p>
+
+### 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shiv2240&show_icons=true&theme=radical&count_private=true" alt="github-stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shiv2240&theme=radical&hide_border=true" alt="streak-stats"/>
+</p>
+
+### 🏆 Projects:
+
+I actively work on various Full Stack Web Development projects to showcase my core competencies. Here are some of my pinned projects:
+
+1. **Project Name - Movie Booking System**
+   - **Project Type**: Fullstack
+   - **Technologies**: Tailwind CSS, JavaScript, FireBase, MongoDB
+   - **Description**: The app lets users browse movies, pick cinemas, select showtimes, and book tickets. It smartly disables past showtimes for a smooth user experience.
+   - **Deployed Link**: [Deployed App Link](https://movie-booking-solar-sparks.netlify.app/pages/home)
+   - **Github Link**: [Code Walkthrough](https://github.com/ANKIT9761/Movie-Booking-System)
+   - **Installation Instructions**:
+     1. Clone the repository: `git clone https://github.com/ANKIT9761/Movie-Booking-System `
+     2. Navigate to folder: `cd Movie-Booking-System`
+     3. Run `npm install` to install dependencies.
+     4. Run the server: `npm run dev`
+2. **Project Name - Finance Tracker**
+   - **Project Type**: Frontend
+   - **Technologies**: React, Bootstrap, Chart.JS, Nucleo Icons, JQuery
+   - **Description**: Finance Tracker is a tool I built to help organizations manage their finances efficiently. It tracks income, expenses, and savings, providing insights for better financial decisions.
+   - **Deployed Link**: [Deployed App Link](https://trackify-group-6.netlify.app/)
+   - **Github Link**: [Code Walkthrough](https://github.com/shubham-sangale-1/Finance-Tracker)
+   - **Installation Instructions**:
+     1. Clone the repository: `git clone https://github.com/shubham-sangale-1/Finance-Tracker.git`
+     2. Navigate to folder: `cd Finance-Tracker`
+     3. Run `npm install` to install dependencies.
+     4. Run the server: `npm start`
+
+3. **Project Name - Crowdfunding Platform**
+   - **Project Type**: Fullstack
+   - **Technologies**: React, Chakra UI, Firebase
+   - **Description**: The Crowdfunding Platform is a React app for fundraising, featuring real-time donation tracking, interactive campaign creation, and supporter engagement.
+   - **Deployed Link**: [Deployed App Link](https://aabhar.netlify.app/)
+   - **Github Link**: [Code Walkthrough](https://github.com/shiv2240/Code-Hackers)
+   - **Installation Instructions**:
+     1. Clone the repository: `git clone https://github.com/shiv2240/Code-Hackers.git`
+     2. Navigate to folder: `cd Code-Hackers`
+     3. Run `npm install` to install dependencies.
+     4. Run the server: `npm run dev or npm start`
+
+> For more projects, visit my [GitHub Repository](https://github.com/shiv2240).
+
+### 🤝 Connect with me:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/shiv-sahni-5461aa181/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+  </a>
+  &nbsp; &nbsp;
+  <a href="https://shiv-sahni-portfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=dev.to&logoColor=white" alt="portfolio" height="30" width="80" />
+  </a>
+</p>
+
+### 📅 Milestones:
+
+- **Projects**: Added at least four projects to showcase core competencies. Projects are tagged and pinned accordingly.
+- **README Updates**: All projects have detailed README files with descriptions, installation instructions, and video walkthroughs.
+
+### 🔖 Merit Points:
+
+- **Repositories Starring**: I have starred repositories of interest.
+- **Followers**: Engaging with the GitHub community and looking to expand my network.
