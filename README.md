@@ -2,9 +2,9 @@
 
 <div align="center">
 
-![GitHub Header](https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Shiv%20Sahni&fontSize=70&animation=fadeIn&fontAlignY=38)
+![GitHub Header](https://capsule-render.vercel.app/render?type=waving&color=gradient&height=200&section=header&text=Shiv%20Sahni&fontSize=70&animation=fadeIn&fontAlignY=35)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9C27B0&width=435&lines=Full+Stack+Developer;MERN+Stack+Expert;Creative+Problem+Solver;AI-Integration+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9C27B0&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Expert;Creative+Problem+Solver;AI-Integration+Enthusiast)](https://git.io/typing-svg)
 
 </div>
 
@@ -94,7 +94,7 @@ _AI-powered voice solution for automating business data collection._
 ### 🐍 Workflow & Contributions
 
 <div align="center">
-  <img src="https://github.com/shiv2240/shiv2240/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
+  <img src="https://raw.githubusercontent.com/shiv2240/shiv2240/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
 </div>
 
 ---
