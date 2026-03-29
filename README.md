@@ -1,7 +1,10 @@
 # <img src="https://media.giphy.com/media/hvRJCLzz8CXTfMSyjE/giphy.gif" width="30"> Hi, I'm Shiv Sahni
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=200&section=header&text=Shiv%20Sahni&fontSize=70&animation=fadeIn&fontAlignY=35" alt="Header" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Shiv%20Sahni&fontSize=70&animation=fadeIn&fontAlignY=35"
+    alt="Shiv Sahni Header"
+  />
 </div>
 
 <div align="center">
