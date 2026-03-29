@@ -1,137 +1,111 @@
-<h1 align="center">👋 Hi, I'm Shiv Sahni</h1>
-<h3 align="center">A passionate Full Stack Developer from India 🚀</h3>
+# <img src="https://media.giphy.com/media/hvRJCLzz8CXTfMSyjE/giphy.gif" width="30"> Hi, I'm Shiv Sahni
 
 <div align="center">
-  <!-- Profile Picture - Task 1.1 -->
-  <img src="./.github/Profile.jpg" width="200" alt="Professional Profile Picture" />
-  <br />
-  <!-- Typing animation -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;Always+learning+new+things" alt="Typing SVG" />
-  </a>
-  <br />
-  <!-- Snake animation -->
-  <img src="https://github.com/shiv2240/shiv2240/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+
+![GitHub Header](https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Shiv%20Sahni&fontSize=70&animation=fadeIn&fontAlignY=38)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9C27B0&width=435&lines=Full+Stack+Developer;MERN+Stack+Expert;Creative+Problem+Solver;AI-Integration+Enthusiast)](https://git.io/typing-svg)
+
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shiv2240&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
-</p>
+---
 
-### 👨‍💻 About Me:
+<table align="center">
+  <tr>
+    <td width="65%" style="vertical-align: top;">
+      <h3>👨‍💻 About Me</h3>
+      <p>
+        I am a highly motivated <b>Full Stack Developer</b> based in India, specializing in the <b>MERN Stack</b>. 
+        My passion lies in crafting high-performance, accessible, and user-centric digital experiences. 
+        I thrive on solving complex technical challenges and staying at the forefront of modern web technologies.
+      </p>
+      <ul>
+        <li>🔭 <b>Currently Focused</b>: Scaling AI-orchestrated systems and 3D web interactions.</li>
+        <li>🌱 <b>Continuous Learning</b>: Deepening expertise in Cloud Architecture and Advanced Backend Patterns.</li>
+        <li>💬 <b>Expertise</b>: React, Node.js, Express, MongoDB, and Scalable UI Design.</li>
+        <li>📫 <b>Contact</b>: <a href="mailto:shivsahni2240@gmail.com">shivsahni2240@gmail.com</a></li>
+      </ul>
+    </td>
+    <td width="35%" align="center">
+      <!-- Professional Profile Picture -->
+      <img src="./.github/Profile.jpg" width="220" style="border-radius: 50%; box-shadow: 0 4px 15px rgba(0,0,0,0.3);" alt="Shiv Sahni" />
+      <br /><br />
+      <a href="https://linkedin.com/in/shivsahnimern"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+    </td>
+  </tr>
+</table>
 
-- 🎓 Recently completed **Full Stack Web Development**
-- 🔍 Actively seeking job opportunities in **Full Stack Development**
-- 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **React, JavaScript**
-- 🌏 Location: **India**
-- 📫 How to reach me: **shivsahni2240@gmail.com**
+---
 
-### 🎯 Motivation & Interests:
+### 🛠️ Strategic Tech Stack
 
-I'm a **MERN Stack Developer**, constantly exploring new technologies and building innovative solutions. Passionate about learning and improving my development skills, I aspire to contribute to meaningful projects and collaborate with other developers.
+<div align="center">
 
-### 🛠️ Tech Stack:
+| **Domain**        | **Technologies**                                                                                                                                                                                                                                                                                                                                                                                                     |
+| :---------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Frontend**      | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&style=flat-square) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square) ![ChakraUI](https://img.shields.io/badge/-ChakraUI-319795?logo=chakra-ui&logoColor=white&style=flat-square) |
+| **Backend**       | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat-square) ![PostgreSQL](https://img.shields.io/badge/-Postgre-316192?logo=postgresql&logoColor=white&style=flat-square)                                                                                        |
+| **Database**      | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)                                                                                                 |
+| **Tools & Cloud** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square) ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square) ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white&style=flat-square)                                                                                                               |
 
-<p align="left">
-  <!-- Programming Languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> &nbsp;
+</div>
 
-  <!-- Frontend -->
+---
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> &nbsp;
-<img src="https://www.vectorlogo.zone/logos/chakra-ui/chakra-ui-icon.svg" alt="chakra" width="40" height="40"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/> &nbsp;
+### 🏆 Featured Impact Projects
 
-  <!-- Database -->
+> [!TIP]
+> Each project represents a core pillar of my technical expertise, ranging from complex AI orchestration to high-traffic medical systems.
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> &nbsp;
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> &nbsp;
+#### 🤖 [Multi-AI Orchestrator](https://ai-orchestrator.netlify.app/)
 
-  <!-- Backend -->
+_Engineered a unified AI interface integrating GPT-4, Gemini, and Perplexity._
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/> &nbsp;
+- **Outcome**: Centralized multiple LLMs into a seamless, role-based workflow.
+- **Tech Stack**: MERN, OpenAI API, Gemini Pro, MongoDB.
 
-  <!-- Tools -->
+#### 🏥 [Pharma Care](https://online-pharmacy-2.netlify.app/)
 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/> &nbsp;
-<img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40"/> &nbsp;
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> &nbsp;
+_A full-scaled digital pharmacy with real-time analytics and secure checkout._
 
-</p>
+- **Outcome**: Optimized inventory management and prescription upload workflows.
+- **Tech Stack**: Node.js, Express, MongoDB, Tailwind CSS.
 
-### 📊 GitHub Stats:
+#### 🎙️ [KathaVachan](https://kathavachan1.netlify.app/)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shiv2240&show_icons=true&theme=radical&count_private=true" alt="github-stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shiv2240&theme=radical&hide_border=true" alt="streak-stats"/>
-</p>
+_AI-powered voice solution for automating business data collection._
 
-### 🏆 Projects:
+- **Outcome**: Simplified data entry for eKatha documents using advanced speech recognition.
+- **Tech Stack**: React, Google AI, Three.js, Firebase.
 
-I actively work on various Full Stack Web Development projects to showcase my core competencies. Here are some of my pinned projects:
+---
 
-1. **Project Name - Movie Booking System**
-   - **Project Type**: Fullstack
-   - **Technologies**: Tailwind CSS, JavaScript, FireBase, MongoDB
-   - **Description**: The app lets users browse movies, pick cinemas, select showtimes, and book tickets. It smartly disables past showtimes for a smooth user experience.
-   - **Deployed Link**: [Deployed App Link](https://movie-booking-solar-sparks.netlify.app/pages/home)
-   - **Github Link**: [Code Walkthrough](https://github.com/ANKIT9761/Movie-Booking-System)
-   - **Installation Instructions**:
-     1. Clone the repository: `git clone https://github.com/ANKIT9761/Movie-Booking-System `
-     2. Navigate to folder: `cd Movie-Booking-System`
-     3. Run `npm install` to install dependencies.
-     4. Run the server: `npm run dev`
-2. **Project Name - Finance Tracker**
-   - **Project Type**: Frontend
-   - **Technologies**: React, Bootstrap, Chart.JS, Nucleo Icons, JQuery
-   - **Description**: Finance Tracker is a tool I built to help organizations manage their finances efficiently. It tracks income, expenses, and savings, providing insights for better financial decisions.
-   - **Deployed Link**: [Deployed App Link](https://trackify-group-6.netlify.app/)
-   - **Github Link**: [Code Walkthrough](https://github.com/shubham-sangale-1/Finance-Tracker)
-   - **Installation Instructions**:
-     1. Clone the repository: `git clone https://github.com/shubham-sangale-1/Finance-Tracker.git`
-     2. Navigate to folder: `cd Finance-Tracker`
-     3. Run `npm install` to install dependencies.
-     4. Run the server: `npm start`
+### 📊 Performance Analytics
 
-3. **Project Name - Crowdfunding Platform**
-   - **Project Type**: Fullstack
-   - **Technologies**: React, Chakra UI, Firebase
-   - **Description**: The Crowdfunding Platform is a React app for fundraising, featuring real-time donation tracking, interactive campaign creation, and supporter engagement.
-   - **Deployed Link**: [Deployed App Link](https://aabhar.netlify.app/)
-   - **Github Link**: [Code Walkthrough](https://github.com/shiv2240/Code-Hackers)
-   - **Installation Instructions**:
-     1. Clone the repository: `git clone https://github.com/shiv2240/Code-Hackers.git`
-     2. Navigate to folder: `cd Code-Hackers`
-     3. Run `npm install` to install dependencies.
-     4. Run the server: `npm run dev or npm start`
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shiv2240&show_icons=true&theme=dark&hide_border=true&border_radius=10" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiv2240&layout=compact&theme=dark&hide_border=true&border_radius=10" height="150" />
+</div>
 
-> For more projects, visit my [GitHub Repository](https://github.com/shiv2240).
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shiv2240&theme=dark&hide_border=true&border_radius=10" />
+</div>
 
-### 🤝 Connect with me:
+### 🐍 Workflow & Contributions
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/shiv-sahni-5461aa181/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-  </a>
-  &nbsp; &nbsp;
-  <a href="https://shiv-sahni-portfolio.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=dev.to&logoColor=white" alt="portfolio" height="30" width="80" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://github.com/shiv2240/shiv2240/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
+</div>
 
-### 📅 Milestones:
+---
 
-- **Projects**: Added at least four projects to showcase core competencies. Projects are tagged and pinned accordingly.
-- **README Updates**: All projects have detailed README files with descriptions, installation instructions, and video walkthroughs.
-
-### 🔖 Merit Points:
-
-- **Repositories Starring**: I have starred repositories of interest.
-- **Followers**: Engaging with the GitHub community and looking to expand my network.
+<div align="center">
+  <h3>🤝 Open for Collaborations and High-Impact Roles</h3>
+  <p>Let's architect the future of the web together.</p>
+  <p>
+    <a href="https://linkedin.com/in/shivsahnimern"><img src="https://img.shields.io/badge/LinkedIn-Shiv%20Sahni-blue?logo=linkedin" /></a>
+    <a href="https://shivsahnimern.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-purple?logo=googlechrome" /></a>
+  </p>
+  <br />
+  <p><i>Everything is possible with persistent code.</i></p>
+</div>
