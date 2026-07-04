@@ -109,7 +109,7 @@ _AI-powered voice solution for automating business data collection._
   <p>Let's architect the future of the web together.</p>
   <p>
     <a href="https://linkedin.com/in/shivsahnimern"><img src="https://img.shields.io/badge/LinkedIn-Shiv%20Sahni-blue?logo=linkedin" /></a>
-    <a href="https://shivsahnimern.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-purple?logo=googlechrome" /></a>
+    <a href="https://https://shiv-sahni-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-purple?logo=googlechrome" /></a>
   </p>
   <br />
   <p><i>Everything is possible with persistent code.</i></p>
