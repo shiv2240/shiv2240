@@ -93,7 +93,7 @@ _AI-powered voice solution for automating business data collection._
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shiv2240&theme=dark&hide_border=true&border_radius=10" />
+  <img src="https://streak-stats.demolab.com?user=shiv2240&theme=dark&hide_border=true&border_radius=10" />
 </div>
 
 ### 🐍 Workflow & Contributions
