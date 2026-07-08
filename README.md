@@ -84,23 +84,7 @@ _AI-powered voice solution for automating business data collection._
 - **Tech Stack**: React, Google AI, Three.js, Firebase.
 
 ---
-
-### 📊 Performance Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shiv2240&show_icons=true&theme=dark&hide_border=true&border_radius=10" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiv2240&layout=compact&theme=dark&hide_border=true&border_radius=10" height="150" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=shiv2240&theme=dark&hide_border=true&border_radius=10" />
-</div>
-
-### 🐍 Workflow & Contributions
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/shiv2240/shiv2240/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
-</div>
+![Stats](https://github-readme-stats.vercel.app/api?username=shiv2240)
 
 ---
 
