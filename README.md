@@ -83,12 +83,13 @@ _AI-powered voice solution for automating business data collection._
 - **Outcome**: Simplified data entry for eKatha documents using advanced speech recognition.
 - **Tech Stack**: React, Google AI, Three.js, Firebase.
 
----
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shiv2240&theme=github_dark)
+
 
 ---
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shiv2240&theme=github_dark)
+
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shiv2240&theme=github_dark)
 
 ---
 
