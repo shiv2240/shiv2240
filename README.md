@@ -87,9 +87,15 @@ _AI-powered voice solution for automating business data collection._
 
 ---
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shiv2240&theme=github_dark)
+### 📊 GitHub Analytics
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shiv2240&theme=github_dark)
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shiv2240&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shiv2240&theme=github_dark)
+
+</div>
 
 ---
 
