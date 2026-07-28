@@ -62,6 +62,13 @@
 > [!TIP]
 > Each project represents a core pillar of my technical expertise, ranging from complex AI orchestration to high-traffic medical systems.
 
+#### 🎯 [Website Highlight Saver (Chrome Extension)](https://github.com/shiv2240/Cactro-Interview-05-07-2026-)
+
+_A Chrome Extension (MV3) to save, search, and AI-summarize highlights and full webpages using Groq LLaMA 3.3 and Convex Cloud._
+
+- **Outcome**: Features Shadow DOM in-page AI modals, full webpage section breakdowns (Overview, Agenda, Key Takeaways), domain favicons, Light/Dark Lumina Slate UI, and zero-downtime password security.
+- **Tech Stack**: Chrome Extension MV3, Convex Cloud Backend, Groq AI API, JavaScript, CSS Glassmorphism.
+
 #### 🤖 [Multi-AI Orchestrator](https://ai-orchestrator.netlify.app/)
 
 _Engineered a unified AI interface integrating GPT-4, Gemini, and Perplexity._
@@ -82,6 +89,7 @@ _AI-powered voice solution for automating business data collection._
 
 - **Outcome**: Simplified data entry for eKatha documents using advanced speech recognition.
 - **Tech Stack**: React, Google AI, Three.js, Firebase.
+
 
 
 
